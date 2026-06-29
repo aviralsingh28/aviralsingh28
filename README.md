@@ -66,6 +66,6 @@
 
 ### 📫 Connect With Me
 
-- 💼 <a href="https://www.linkedin.com/in/aviral-singh-61a12b118" target="_blank">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/aviral-singh28" target="_blank">LinkedIn</a>
 - 🌐 <a href="https://www.self.so/aviral-singh" target="_blank">Portfolio</a>
 - 📧 <a href="mailto:aviral281201@email.com" target="_blank">aviral281201@email.com</a>
