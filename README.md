@@ -66,6 +66,6 @@
 
 ### 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 🌐 Portfolio: https://your-portfolio.com
-- 📧 Email: your@email.com
+- 💼 LinkedIn: www.linkedin.com/in/aviral-singh-61a12b118
+- 🌐 Portfolio: https://www.self.so/aviral-singh
+- 📧 Email: aviral281201@email.com
